@@ -5,6 +5,7 @@
 
 💡 Passionate about Android development, MVVM, agile methodology and Object Oriented programming.
 
+- 🔭 Android Developer
 - 💻 Future Software Engineer
 - 🔭 Trainee Developer at SESI
 - 🌱 Programming the future

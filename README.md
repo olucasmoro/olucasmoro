@@ -9,7 +9,7 @@
 - 🌱 Programming the future
 - 💭 Constantly evolving
 
-### 🛠 Tech Stack
+### 🛠 Technologies & Tools
 [![Android Badge](https://img.shields.io/badge/-Android-000?style=flat-square&logo=Android&logoColor=white&link=https://developer.android.com/)](https://developer.android.com/) &nbsp;
 [![Kotlin Badge](https://img.shields.io/badge/-Kotlin-000?style=flat-square&logo=Kotlin&logoColor=white&link=https://kotlinlang.org/)](https://kotlinlang.org/) &nbsp;
 ![Java Badge](https://img.shields.io/badge/-Java-000?style=flat-square&logo=Java&logoColor=white) &nbsp;
@@ -24,8 +24,8 @@
 <img alt="Object Oriented" src="https://img.shields.io/badge/-Object Oriented-808080?style=flat-square" /> &nbsp;
 
 ### 🌎 Find me elsewhere
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/olucasmoro)](https://github.com/olucasmoro)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/olucasmoro)](https://linkedin.com/in/olucasmoro)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmoro31@gmail.com)](mailto:lucasmoro31@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9twsCjJ0NQ_u7mGamouwLQ?view_as=subscriber)](https://www.youtube.com/channel/UC9twsCjJ0NQ_u7mGamouwLQ?view_as=subscriber)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/olucasmoro)](https://github.com/olucasmoro) &nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/olucasmoro)](https://linkedin.com/in/olucasmoro) &nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmoro31@gmail.com)](mailto:lucasmoro31@gmail.com) &nbsp;
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9twsCjJ0NQ_u7mGamouwLQ?view_as=subscriber)](https://www.youtube.com/channel/UC9twsCjJ0NQ_u7mGamouwLQ?view_as=subscriber) &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/olucasmoro/)](https://www.instagram.com/olucasmoro/)

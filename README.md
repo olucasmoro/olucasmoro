@@ -14,14 +14,14 @@
 [![Kotlin Badge](https://img.shields.io/badge/-Kotlin-000?style=flat-square&logo=Kotlin&logoColor=white&link=https://kotlinlang.org/)](https://kotlinlang.org/) &nbsp;
 ![Java Badge](https://img.shields.io/badge/-Java-000?style=flat-square&logo=Java&logoColor=white) &nbsp;
 
-<img alt="Clean Architecture" src="https://img.shields.io/badge/-Clean Architecture-21274F?style=flat-square" /> &nbsp;
-<img alt="SOLID" src="https://img.shields.io/badge/-SOLID-21274F?style=flat-square" /> &nbsp;
-<img alt="MVVM" src="https://img.shields.io/badge/-MVVM-21274F?style=flat-square" /> &nbsp;
-<img alt="Dependency injection" src="https://img.shields.io/badge/-Dependency injection-21274F?style=flat-square" /> &nbsp;
-<img alt="Git" src="https://img.shields.io/badge/-Git-21274F?style=flat-square" /> &nbsp;
-<img alt="Unit tests" src="https://img.shields.io/badge/-Unit tests-21274F?style=flat-square" /> &nbsp;
-<img alt="Agile methodology" src="https://img.shields.io/badge/-Agile methodology-21274F?style=flat-square" /> &nbsp;
-<img alt="Object Oriented" src="https://img.shields.io/badge/-Object Oriented-21274F?style=flat-square" /> &nbsp;
+<img alt="Clean Architecture" src="https://img.shields.io/badge/-Clean Architecture-808080?style=flat-square" /> &nbsp;
+<img alt="SOLID" src="https://img.shields.io/badge/-SOLID-808080?style=flat-square" /> &nbsp;
+<img alt="MVVM" src="https://img.shields.io/badge/-MVVM-808080?style=flat-square" /> &nbsp;
+<img alt="Dependency injection" src="https://img.shields.io/badge/-Dependency injection-808080?style=flat-square" /> &nbsp;
+<img alt="Git" src="https://img.shields.io/badge/-Git-808080?style=flat-square" /> &nbsp;
+<img alt="Unit tests" src="https://img.shields.io/badge/-Unit tests-808080?style=flat-square" /> &nbsp;
+<img alt="Agile methodology" src="https://img.shields.io/badge/-Agile methodology-808080?style=flat-square" /> &nbsp;
+<img alt="Object Oriented" src="https://img.shields.io/badge/-Object Oriented-808080?style=flat-square" /> &nbsp;
 
 ### 🌎 Find me elsewhere
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/olucasmoro)](https://github.com/olucasmoro)

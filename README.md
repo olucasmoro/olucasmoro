@@ -2,22 +2,30 @@
 
 <img align='right' src='https://media1.tenor.com/images/5ee0cbb531b8fab27efccf073e075965/tenor.gif?itemid=4641519' width='200'>
 
-
 💡 Passionate about Android development, MVVM, agile methodology and Object Oriented programming.
 
 - 🔭 Android Developer
 - 💻 Future Software Engineer
-- 🔭 Trainee Developer at SESI
 - 🌱 Programming the future
-- 💭 Studying
+- 💭 Constantly evolving
 
-## 🛠 Tech Stack
-<img src="https://img.icons8.com/color/48/000000/android-os.png"/><img src="https://img.icons8.com/color/48/000000/kotlin.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/48/000000/xml-transformer.png"/><img src="https://img.icons8.com/color/48/000000/bot.png"/>
+### 🛠 Tech Stack
+[![Android Badge](https://img.shields.io/badge/-Android-000?style=flat-square&logo=Android&logoColor=white&link=https://developer.android.com/)](https://developer.android.com/) &nbsp;
+[![Kotlin Badge](https://img.shields.io/badge/-Kotlin-000?style=flat-square&logo=Kotlin&logoColor=white&link=https://kotlinlang.org/)](https://kotlinlang.org/) &nbsp;
+![Java Badge](https://img.shields.io/badge/-Java-000?style=flat-square&logo=Java&logoColor=white) &nbsp;
 
-## 🌎 Find me elsewhere
-<a href="https://linkedin.com/in/olucasmoro"><img src="https://img.icons8.com/ios/50/000000/linkedin.png"></a>
-<a href="https://www.youtube.com/channel/UC9twsCjJ0NQ_u7mGamouwLQ?view_as=subscriber"><img src="https://img.icons8.com/ios/50/000000/youtube-squared.png"/></a>
-<a href="https://www.instagram.com/olucasmoro/"><img src="https://img.icons8.com/wired/52/000000/instagram-new.png"/></a>
-<a href="mailto:lucasmoro31@gmail.com"><img src="https://img.icons8.com/material-rounded/52/000000/gmail-login.png"/></a>
+<img alt="Clean Architecture" src="https://img.shields.io/badge/-Clean Architecture-21274F?style=flat-square" /> &nbsp;
+<img alt="SOLID" src="https://img.shields.io/badge/-SOLID-21274F?style=flat-square" /> &nbsp;
+<img alt="MVVM" src="https://img.shields.io/badge/-MVVM-21274F?style=flat-square" /> &nbsp;
+<img alt="Dependency injection" src="https://img.shields.io/badge/-Dependency injection-21274F?style=flat-square" /> &nbsp;
+<img alt="Git" src="https://img.shields.io/badge/-Git-21274F?style=flat-square" /> &nbsp;
+<img alt="Unit tests" src="https://img.shields.io/badge/-Unit tests-21274F?style=flat-square" /> &nbsp;
+<img alt="Agile methodology" src="https://img.shields.io/badge/-Agile methodology-21274F?style=flat-square" /> &nbsp;
+<img alt="Object Oriented" src="https://img.shields.io/badge/-Object Oriented-21274F?style=flat-square" /> &nbsp;
 
-
+### 🌎 Find me elsewhere
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/olucasmoro)](https://github.com/olucasmoro)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://linkedin.com/in/olucasmoro)]("https://linkedin.com/in/olucasmoro)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmoro31@gmail.com)](mailto:lucasmoro31@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9twsCjJ0NQ_u7mGamouwLQ?view_as=subscriber)](https://www.youtube.com/channel/UC9twsCjJ0NQ_u7mGamouwLQ?view_as=subscriber)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/olucasmoro/)](https://www.instagram.com/olucasmoro/)

@@ -25,7 +25,7 @@
 
 ### 🌎 Find me elsewhere
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/olucasmoro)](https://github.com/olucasmoro)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://linkedin.com/in/olucasmoro)]("https://linkedin.com/in/olucasmoro)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/olucasmoro)](https://linkedin.com/in/olucasmoro)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmoro31@gmail.com)](mailto:lucasmoro31@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9twsCjJ0NQ_u7mGamouwLQ?view_as=subscriber)](https://www.youtube.com/channel/UC9twsCjJ0NQ_u7mGamouwLQ?view_as=subscriber)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/olucasmoro/)](https://www.instagram.com/olucasmoro/)

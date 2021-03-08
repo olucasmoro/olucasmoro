@@ -22,6 +22,9 @@
 <img alt="Unit tests" src="https://img.shields.io/badge/-Unit tests-808080?style=flat-square" /> &nbsp;
 <img alt="Agile methodology" src="https://img.shields.io/badge/-Agile methodology-808080?style=flat-square" /> &nbsp;
 <img alt="Object Oriented" src="https://img.shields.io/badge/-Object Oriented-808080?style=flat-square" /> &nbsp;
+<img alt="RESTful" src="https://img.shields.io/badge/-RESTful-808080?style=flat-square" /> &nbsp;
+
+
 
 ### 🌎 Find me elsewhere
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/olucasmoro)](https://github.com/olucasmoro) &nbsp;

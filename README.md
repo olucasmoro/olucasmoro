@@ -4,7 +4,7 @@
 
 💡 Passionate about Android development, MVVM, agile methodology and Object Oriented programming.
 
-- 🔭 I am currently working as an Android Developer on Squadra Digital [Squadra Digital](https://www.squadra.com.br/)
+- 🔭 I am currently working as an Android Developer on [Squadra Digital](https://www.squadra.com.br/)
 - 📱  Android Developer
 - 💻 Future Software Engineer
 - 🌱 Programming the future

@@ -4,7 +4,7 @@
 
 💡 Passionate about Android development, MVVM, agile methodology and Object Oriented programming.
 
-- 🔭 I am currently working as an Android Developer on [Deal](https://www.deal.com.br/)
+- 🔭 I am currently working as an Android Developer on [Ntt Data](https://www.nttdata.com/global/en/)
 - 📱  Android Developer
 - 💻 Future Software Engineer
 - 🌱 Programming the future
